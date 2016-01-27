@@ -77,7 +77,7 @@ body {
 
 .navbar-responsive-collapse {
 	margin: 0 auto;
-	width: 80%;
+	width: 100%;
 }
 
 .nav li {
@@ -232,7 +232,7 @@ body {
 	background-position: center center;
 }
 
-#slide-1 h1 {
+#slide-1 {
 	padding-top: 130px;
 }
 
@@ -610,3 +610,51 @@ body {
 .navigation-slide {
 	cursor: pointer;
 }
+
+/* start promotion 
+#promotion .container-full{
+	background: #f2f2f2;
+	margin: 0;
+	padding: 0;
+}
+#promotion .promotion_content,
+.ifarem{
+	margin-bottom: 100px;
+	min-height: 450px;
+	margin:0;
+}
+#promotion .promotion_content h1{
+	color: #444e5d;
+	font-size: 36px;
+	font-family: 'Roboto' sans-serif;
+}
+#promotion .promotion_content h4{
+	color: #1fab5a;
+	font-size: 26px;
+	font-family: "Roboto" sans-serif;
+}
+#promotion .promotion_content p{
+	color: #4d5866;
+	font-size: 22px;
+	line-height: 28px;
+}
+#promotion .promotion_content a{
+	color: #ffffff;
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 12px 34px;
+}
+.btn.btn-green{
+	background-color: #1fab5a;
+	border:none;
+	border-bottom: 2px solid #188947;
+	-webkit-transition: background-color .2s;
+	-moz-transition: background-color .2s;
+	-o-transition: background-color .2s;
+	-ms-transition: background-color .2s;
+	transition: background-color .2s;
+}
+.btn.btn-green:hover{
+	background-color: #187e43;
+}
+ end promotion */
